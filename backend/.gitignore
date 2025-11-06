@@ -1,0 +1,9 @@
+# Node modules folder (installed packages)
+node_modules
+
+# Environment variables (secrets like DB password)
+.env
+
+
+
+.gitignore

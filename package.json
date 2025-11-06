@@ -1,0 +1,16 @@
+{
+  "name": "amazon-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"npm run dev --prefix server\" \"npm start --prefix frontend\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Amazon clone root project",
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
