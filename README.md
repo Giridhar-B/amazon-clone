@@ -27,7 +27,6 @@ This project replicates key features of Amazon, including **user authentication,
 | **Backend** | Node.js, Express.js |
 | **Database** | PostgreSQL |
 | **Authentication** | JSON Web Token (JWT), bcrypt |
-| **Hosting (optional)** | AWS / Render / Vercel |
 
 ---
 
