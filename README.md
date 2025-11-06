@@ -79,5 +79,6 @@ Visit 👉 http://localhost:3000
 
 ---
 
-## 🧑‍💻 Author
-Giridhar B
+## 👨‍💻 Author
+**Giridhar B**  
+[GitHub Profile](https://github.com/Giridhar-B)
